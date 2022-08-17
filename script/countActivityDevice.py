@@ -155,9 +155,9 @@ if __name__ == "__main__":
             
             # Guardar en fichero la información
             f = open("%s/resultados/Activity_bedroom_sleep_basic_house_one_day_dataset.txt" % workPath, "a")
-            f.write('[%s] - Activity in bedroom general: %i \n' % (d, result_activity_general_bedroom))
-            f.write('[%s] - Activity in bedroom sleep: %i \n' % (d, result_activity_bedroom_sleep))       
-            f.write('[%s] - Activity in bedroom dressing: %i \n' % (d, result_activity_bedroom_all_dressing))            
+            f.write('[%s] - Activity in bedroom light + presence sensor: %i \n' % (d, result_activity_general_bedroom))
+            f.write('[%s] - Activity in bedroom presence sensor bed: %i \n' % (d, result_activity_bedroom_sleep))       
+            f.write('[%s] - Activity in bedroom presence sensor wardrobe: %i \n' % (d, result_activity_bedroom_all_dressing))            
             f.close()
             
             print("Activity in bedroom sleep:%s" % result_activity_bedroom_sleep)
@@ -188,15 +188,15 @@ if __name__ == "__main__":
             
             result_activity_bathroom = df_bathroom_powerStatus.count() + df_bathroom_sensedPresence.count()
             f = open("%s/resultados/Activity_bathroom_basic_house_one_day_dataset.txt" % workPath, "a")
-            f.write('[%s] - Activity in bathroom general:: %i \n' % (d, result_activity_bathroom))
-            f.write('[%s] - Activity in bathroom washbasin:: %i \n' % (d, df_bathroom_sensedPresence_washbasin.count()))
-            f.write('[%s] - Activity in bathroom toilet:: %i \n' % (d, df_bathroom_sensedPresence_toilet.count()))
+            f.write('[%s] - Activity in bathroom light + presencesensor: %i \n' % (d, result_activity_bathroom))
+            f.write('[%s] - Activity in bathroom presence sensor washbasin: %i \n' % (d, df_bathroom_sensedPresence_washbasin.count()))
+            f.write('[%s] - Activity in bathroom presence sensor toilet: %i \n' % (d, df_bathroom_sensedPresence_toilet.count()))
             f.close()  
             print("Activity in bathroom:%s" % result_activity_bathroom)  
 
             # close Activity in bathroom===============================
 
-            #Activity en la kitchen===============================
+            #Activity kitchen===============================
             #cooking
             df_kitchen_powerStatus_cooking = DFDeviceMap.filter((DFDeviceMap.propertiesMap.getItem("propertyDevice") == "powerStatus") \
                        & (DFDeviceMap.propertiesMap.getItem("valuePropertyDevice") == "on") \
@@ -221,11 +221,11 @@ if __name__ == "__main__":
             result_activity_eating = df_kitchen_sensedPresence_eating.count()
             
             f = open("%s/resultados/Activity_kitchen_basic_house_one_day_dataset.txt" % workPath, "a")
-            f.write('[%s] - Activity in kitchen cooking: %i \n' % (d,  result_activity_cooking ))            
-            f.write('[%s] - Activity in kitchen eating: %i \n' % (d, result_activity_eating))
+            f.write('[%s] - Activity in kitchen light + presencesensor: %i \n' % (d,  result_activity_cooking ))            
+            f.write('[%s] - Activity in kitchen presesensor eating: %i \n' % (d, result_activity_eating))
             f.close()   
             
-            #Close Activity en la kitchen===============================
+            #Close Activity kitchen===============================
             
             #Activity in livingroom ===============================
             df_livingroom_powerStatus = DFDeviceMap.filter((DFDeviceMap.propertiesMap.getItem("propertyDevice") == "powerStatus") \
@@ -246,7 +246,7 @@ if __name__ == "__main__":
             
             result_activity_livingroom = df_livingroom_powerStatus.count() + df_livingroom_sensedPresence.count()+df_livingroom_sensedPresence_armchair.count()
             f = open("%s/resultados/Activity_livingroom_SetupHouseWithLights_test_one_day.txt" % workPath, "a")
-            f.write('[%s] - Activity in livingroom:%i \n' % (d, result_activity_livingroom))
+            f.write('[%s] - Activity in livingroom light + presencesensor: %i \n' % (d, result_activity_livingroom))
             f.close()    
             print("Activity in livingroom:%s" % result_activity_livingroom)  
             # Close Activity in livingroom ===============================

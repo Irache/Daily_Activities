@@ -1,2 +1,1 @@
-Activity in livingroom:12
-[2022-08-17 18:13:33.742152] - Activity in livingroom:24 
+[2022-08-17 23:17:40.310208] - Activity in livingroom light + presencesensor: 48 
