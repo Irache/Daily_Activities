@@ -1,0 +1,12 @@
+Activity in bedroom sleep:2
+Activity in bedroom dressing:2
+Activity in bedroom sleep:4
+Activity in bedroom dressing:4
+ - Activity in bedroom sleep:4
+[%(asctime)s] - Activity in bedroom sleep:[%(result_activity_bedroom_sleep)]s 
+[%(asctime)s]- Activity in bedroom dressing:[%(result_activity_bedroom_all_dressing)]s 
+[2022-08-17 02:00:58.398911] - Activity in bedroom sleep: 4 
+[2022-08-17 02:00:58.398911] - Activity in bedroom dressing: 4 
+[2022-08-17 18:13:33.742152] - Activity in bedroom general: 12 
+[2022-08-17 18:13:33.742152] - Activity in bedroom sleep: 4 
+[2022-08-17 18:13:33.742152] - Activity in bedroom dressing: 4 

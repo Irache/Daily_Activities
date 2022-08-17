@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<behavior startdate="01/07/2022-23:00:00" factor="1440">
+	<!-- Zone Section -->
+
+	<create-zone  id ="sleep" leftX ="83" topY ="374" bottomZ ="0" X-Length ="220" Y-Length ="81" Z-Length ="179"/>
+	<add-zone-variable zoneId="sleep" variable="Temperature" />
+	<modify-zone-variable zoneId="sleep" variable="Temperature" value="293.15" />
+	<add-zone-variable zoneId="sleep" variable="Area" />
+	<modify-zone-variable zoneId="sleep" variable="Area" value="3.49272037771226" />
+	<add-zone-variable zoneId="sleep" variable="Electricity" />
+	<modify-zone-variable zoneId="sleep" variable="Electricity" value="0.0" />
+	<add-zone-variable zoneId="sleep" variable="Volume" />
+	<modify-zone-variable zoneId="sleep" variable="Volume" value="8.752757413107304" />
+	<add-zone-variable zoneId="sleep" variable="Illuminance" />
+	<modify-zone-variable zoneId="sleep" variable="Illuminance" value="200.0" />
+
+	<create-zone  id ="toilet" leftX ="127" topY ="276" bottomZ ="0" X-Length ="95" Y-Length ="78" Z-Length ="179"/>
+	<add-zone-variable zoneId="toilet" variable="Temperature" />
+	<modify-zone-variable zoneId="toilet" variable="Temperature" value="293.15" />
+	<add-zone-variable zoneId="toilet" variable="Area" />
+	<modify-zone-variable zoneId="toilet" variable="Area" value="1.452360057010651" />
+	<add-zone-variable zoneId="toilet" variable="Electricity" />
+	<modify-zone-variable zoneId="toilet" variable="Electricity" value="0.0" />
+	<add-zone-variable zoneId="toilet" variable="Volume" />
+	<modify-zone-variable zoneId="toilet" variable="Volume" value="3.6396143638121448" />
+	<add-zone-variable zoneId="toilet" variable="Illuminance" />
+	<modify-zone-variable zoneId="toilet" variable="Illuminance" value="200.0" />
+
+	<create-zone  id ="washbasin" leftX ="90" topY ="187" bottomZ ="0" X-Length ="59" Y-Length ="76" Z-Length ="179"/>
+	<add-zone-variable zoneId="washbasin" variable="Temperature" />
+	<modify-zone-variable zoneId="washbasin" variable="Temperature" value="293.15" />
+	<add-zone-variable zoneId="washbasin" variable="Area" />
+	<modify-zone-variable zoneId="washbasin" variable="Area" value="0.878864045701981" />
+	<add-zone-variable zoneId="washbasin" variable="Electricity" />
+	<modify-zone-variable zoneId="washbasin" variable="Electricity" value="0.0" />
+	<add-zone-variable zoneId="washbasin" variable="Volume" />
+	<modify-zone-variable zoneId="washbasin" variable="Volume" value="2.2024333354077674" />
+	<add-zone-variable zoneId="washbasin" variable="Illuminance" />
+	<modify-zone-variable zoneId="washbasin" variable="Illuminance" value="200.0" />
+
+	<create-zone  id ="armchair" leftX ="415" topY ="268" bottomZ ="0" X-Length ="120" Y-Length ="87" Z-Length ="179"/>
+	<add-zone-variable zoneId="armchair" variable="Temperature" />
+	<modify-zone-variable zoneId="armchair" variable="Temperature" value="293.15" />
+	<add-zone-variable zoneId="armchair" variable="Area" />
+	<modify-zone-variable zoneId="armchair" variable="Area" value="2.0462401726341284" />
+	<add-zone-variable zoneId="armchair" variable="Electricity" />
+	<modify-zone-variable zoneId="armchair" variable="Electricity" value="0.0" />
+	<add-zone-variable zoneId="armchair" variable="Volume" />
+	<modify-zone-variable zoneId="armchair" variable="Volume" value="5.12787795848478" />
+	<add-zone-variable zoneId="armchair" variable="Illuminance" />
+	<modify-zone-variable zoneId="armchair" variable="Illuminance" value="200.0" />
+
+	<create-zone  id ="chair_kitchen" leftX ="409" topY ="440" bottomZ ="0" X-Length ="91" Y-Length ="106" Z-Length ="179"/>
+	<add-zone-variable zoneId="chair_kitchen" variable="Temperature" />
+	<modify-zone-variable zoneId="chair_kitchen" variable="Temperature" value="293.15" />
+	<add-zone-variable zoneId="chair_kitchen" variable="Area" />
+	<modify-zone-variable zoneId="chair_kitchen" variable="Area" value="1.8906161827411694" />
+	<add-zone-variable zoneId="chair_kitchen" variable="Electricity" />
+	<modify-zone-variable zoneId="chair_kitchen" variable="Electricity" value="0.0" />
+	<add-zone-variable zoneId="chair_kitchen" variable="Volume" />
+	<modify-zone-variable zoneId="chair_kitchen" variable="Volume" value="4.737884233282783" />
+	<add-zone-variable zoneId="chair_kitchen" variable="Illuminance" />
+	<modify-zone-variable zoneId="chair_kitchen" variable="Illuminance" value="200.0" />
+
+	<create-zone  id ="livingroom" leftX ="410" topY ="28" bottomZ ="0" X-Length ="243" Y-Length ="339" Z-Length ="179"/>
+	<add-zone-variable zoneId="livingroom" variable="Temperature" />
+	<modify-zone-variable zoneId="livingroom" variable="Temperature" value="293.15" />
+	<add-zone-variable zoneId="livingroom" variable="Area" />
+	<modify-zone-variable zoneId="livingroom" variable="Area" value="16.145893882473047" />
+	<add-zone-variable zoneId="livingroom" variable="Electricity" />
+	<modify-zone-variable zoneId="livingroom" variable="Electricity" value="0.0" />
+	<add-zone-variable zoneId="livingroom" variable="Volume" />
+	<modify-zone-variable zoneId="livingroom" variable="Volume" value="40.461610746986125" />
+	<add-zone-variable zoneId="livingroom" variable="Illuminance" />
+	<modify-zone-variable zoneId="livingroom" variable="Illuminance" value="200.0" />
+
+	<create-zone  id ="chair_bedroom" leftX ="155" topY ="489" bottomZ ="0" X-Length ="98" Y-Length ="50" Z-Length ="179"/>
+	<add-zone-variable zoneId="chair_bedroom" variable="Temperature" />
+	<modify-zone-variable zoneId="chair_bedroom" variable="Temperature" value="293.15" />
+	<add-zone-variable zoneId="chair_bedroom" variable="Area" />
+	<modify-zone-variable zoneId="chair_bedroom" variable="Area" value="0.960400134181981" />
+	<add-zone-variable zoneId="chair_bedroom" variable="Electricity" />
+	<modify-zone-variable zoneId="chair_bedroom" variable="Electricity" value="0.0" />
+	<add-zone-variable zoneId="chair_bedroom" variable="Volume" />
+	<modify-zone-variable zoneId="chair_bedroom" variable="Volume" value="2.4067627765600377" />
+	<add-zone-variable zoneId="chair_bedroom" variable="Illuminance" />
+	<modify-zone-variable zoneId="chair_bedroom" variable="Illuminance" value="200.0" />
+
+	<create-zone  id ="wardrobe" leftX ="69" topY ="476" bottomZ ="0" X-Length ="73" Y-Length ="85" Z-Length ="179"/>
+	<add-zone-variable zoneId="wardrobe" variable="Temperature" />
+	<modify-zone-variable zoneId="wardrobe" variable="Temperature" value="293.15" />
+	<add-zone-variable zoneId="wardrobe" variable="Area" />
+	<modify-zone-variable zoneId="wardrobe" variable="Area" value="1.2161801469993634" />
+	<add-zone-variable zoneId="wardrobe" variable="Electricity" />
+	<modify-zone-variable zoneId="wardrobe" variable="Electricity" value="0.0" />
+	<add-zone-variable zoneId="wardrobe" variable="Volume" />
+	<modify-zone-variable zoneId="wardrobe" variable="Volume" value="3.0477474994133544" />
+	<add-zone-variable zoneId="wardrobe" variable="Illuminance" />
+	<modify-zone-variable zoneId="wardrobe" variable="Illuminance" value="200.0" />
+
+	<create-zone  id ="kitchen" leftX ="407" topY ="377" bottomZ ="0" X-Length ="244" Y-Length ="191" Z-Length ="179"/>
+	<add-zone-variable zoneId="kitchen" variable="Temperature" />
+	<modify-zone-variable zoneId="kitchen" variable="Temperature" value="293.15" />
+	<add-zone-variable zoneId="kitchen" variable="Area" />
+	<modify-zone-variable zoneId="kitchen" variable="Area" value="9.134384426418308" />
+	<add-zone-variable zoneId="kitchen" variable="Electricity" />
+	<modify-zone-variable zoneId="kitchen" variable="Electricity" value="0.0" />
+	<add-zone-variable zoneId="kitchen" variable="Volume" />
+	<modify-zone-variable zoneId="kitchen" variable="Volume" value="22.890767755898302" />
+	<add-zone-variable zoneId="kitchen" variable="Illuminance" />
+	<modify-zone-variable zoneId="kitchen" variable="Illuminance" value="200.0" />
+
+	<create-zone  id ="bedroom" leftX ="57" topY ="364" bottomZ ="0" X-Length ="259" Y-Length ="210" Z-Length ="179"/>
+	<add-zone-variable zoneId="bedroom" variable="Temperature" />
+	<modify-zone-variable zoneId="bedroom" variable="Temperature" value="293.15" />
+	<add-zone-variable zoneId="bedroom" variable="Area" />
+	<modify-zone-variable zoneId="bedroom" variable="Area" value="10.660440695343027" />
+	<add-zone-variable zoneId="bedroom" variable="Electricity" />
+	<modify-zone-variable zoneId="bedroom" variable="Electricity" value="0.0" />
+	<add-zone-variable zoneId="bedroom" variable="Volume" />
+	<modify-zone-variable zoneId="bedroom" variable="Volume" value="26.715064829859518" />
+	<add-zone-variable zoneId="bedroom" variable="Illuminance" />
+	<modify-zone-variable zoneId="bedroom" variable="Illuminance" value="200.0" />
+
+	<create-zone  id ="bathroom" leftX ="55" topY ="20" bottomZ ="0" X-Length ="260" Y-Length ="343" Z-Length ="179"/>
+	<add-zone-variable zoneId="bathroom" variable="Temperature" />
+	<modify-zone-variable zoneId="bathroom" variable="Temperature" value="293.15" />
+	<add-zone-variable zoneId="bathroom" variable="Area" />
+	<modify-zone-variable zoneId="bathroom" variable="Area" value="17.47928067037583" />
+	<add-zone-variable zoneId="bathroom" variable="Electricity" />
+	<modify-zone-variable zoneId="bathroom" variable="Electricity" value="0.0" />
+	<add-zone-variable zoneId="bathroom" variable="Volume" />
+	<modify-zone-variable zoneId="bathroom" variable="Volume" value="43.80307809342163" />
+	<add-zone-variable zoneId="bathroom" variable="Illuminance" />
+	<modify-zone-variable zoneId="bathroom" variable="Illuminance" value="200.0" />
+
+	<!-- Device Section -->
+
+	<create-device id="PresenceSensor-171dfd4841" type="iCasa.PresenceSensor" />
+	<move-device-zone deviceId="PresenceSensor-171dfd4841" zoneId="toilet" />
+
+	<create-device id="PresenceSensor-111d8d6f12" type="iCasa.PresenceSensor" />
+	<move-device-zone deviceId="PresenceSensor-111d8d6f12" zoneId="armchair" />
+
+	<create-device id="PresenceSensor-6d030aeaca" type="iCasa.PresenceSensor" />
+	<move-device-zone deviceId="PresenceSensor-6d030aeaca" zoneId="chair_kitchen" />
+
+	<create-device id="PresenceSensor-9fe34bec2c" type="iCasa.PresenceSensor" />
+	<move-device-zone deviceId="PresenceSensor-9fe34bec2c" zoneId="chair_bedroom" />
+
+	<create-device id="PresenceSensor-bddbc8da37" type="iCasa.PresenceSensor" />
+	<move-device-zone deviceId="PresenceSensor-bddbc8da37" zoneId="wardrobe" />
+
+	<create-device id="BiLi-C7496W-S" type="iCasa.BinaryLight" />
+	<move-device-zone deviceId="BiLi-C7496W-S" zoneId="bedroom" />
+
+	<create-device id="BiLi-A7496W-S" type="iCasa.BinaryLight" />
+	<move-device-zone deviceId="BiLi-A7496W-S" zoneId="kitchen" />
+
+	<create-device id="BiLi-B7496W-S" type="iCasa.BinaryLight" />
+	<move-device-zone deviceId="BiLi-B7496W-S" zoneId="livingroom" />
+
+	<create-device id="PresenceSensor-c9a1b173c0" type="iCasa.PresenceSensor" />
+	<move-device-zone deviceId="PresenceSensor-c9a1b173c0" zoneId="sleep" />
+
+	<create-device id="Pres-D1255D-D" type="iCasa.PresenceSensor" />
+	<move-device-zone deviceId="Pres-D1255D-D" zoneId="bathroom" />
+
+	<create-device id="PresenceSensor-88589bd133" type="iCasa.PresenceSensor" />
+	<move-device-zone deviceId="PresenceSensor-88589bd133" zoneId="washbasin" />
+
+	<create-device id="Pres-C1255D-D" type="iCasa.PresenceSensor" />
+	<move-device-zone deviceId="Pres-C1255D-D" zoneId="bedroom" />
+
+	<create-device id="DoorWindowSensor-a179beddf5" type="iCasa.DoorWindowSensor" />
+	<move-device-zone deviceId="DoorWindowSensor-a179beddf5" zoneId="wardrobe" />
+
+	<create-device id="Pres-A1255D-D" type="iCasa.PresenceSensor" />
+	<move-device-zone deviceId="Pres-A1255D-D" zoneId="kitchen" />
+
+	<create-device id="Pres-B1255D-D" type="iCasa.PresenceSensor" />
+	<move-device-zone deviceId="Pres-B1255D-D" zoneId="livingroom" />
+
+	<create-device id="BiLi-D7496W-S" type="iCasa.BinaryLight" />
+	<move-device-zone deviceId="BiLi-D7496W-S" zoneId="bathroom" />
+
+
+	<!-- Person Section -->
+
+	<create-person id="Paul" type="Grandfather" />
+	<move-person-zone personId="Paul" zoneId="sleep"  />
+	<delay value="9" unit="h"/>    
+    <set-device-property deviceId="BiLi-C7496W-S" property="powerStatus" value="false"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-C1255D-D" property="sensedPresence" value="true"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-c9a1b173c0" property="sensedPresence" value="true"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-9fe34bec2c" property="sensedPresence" value="false"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-bddbc8da37" property="sensedPresence" value="false"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="DoorWindowSensor-a179beddf5" property="doorWindowSensor.opneningDetection" value="false"/>    
+
+    <delay value="1" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="sleep"  />
+    <set-device-property deviceId="BiLi-C7496W-S" property="powerStatus" value="false"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-C1255D-D" property="sensedPresence" value="false"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-c9a1b173c0" property="sensedPresence" value="false"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-9fe34bec2c" property="sensedPresence" value="false"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-bddbc8da37" property="sensedPresence" value="false"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="DoorWindowSensor-a179beddf5" property="doorWindowSensor.opneningDetection" value="false"/>  
+
+	<delay value="1" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="toilet"  />
+    <set-device-property deviceId="BiLi-D7496W-S" property="powerStatus" value="true"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-D1255D-D" property="sensedPresence" value="true"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-171dfd4841" property="sensedPresence" value="true"/>     
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-88589bd133" property="sensedPresence" value="false"/> 
+
+	<delay value="30" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="washbasin"  />
+    <set-device-property deviceId="BiLi-D7496W-S" property="powerStatus" value="true"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-D1255D-D" property="sensedPresence" value="true"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-171dfd4841" property="sensedPresence" value="false"/>     
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-88589bd133" property="sensedPresence" value="true"/> 
+	
+	<delay value="30" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="washbasin"  />
+    <set-device-property deviceId="BiLi-D7496W-S" property="powerStatus" value="false"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-D1255D-D" property="sensedPresence" value="false"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-171dfd4841" property="sensedPresence" value="false"/>     
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-88589bd133" property="sensedPresence" value="false"/> 
+
+	<delay value="1" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="wardrobe"  />
+    <set-device-property deviceId="BiLi-C7496W-S" property="powerStatus" value="true"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-C1255D-D" property="sensedPresence" value="true"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-c9a1b173c0" property="sensedPresence" value="false"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-9fe34bec2c" property="sensedPresence" value="false"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-bddbc8da37" property="sensedPresence" value="true"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="DoorWindowSensor-a179beddf5" property="doorWindowSensor.opneningDetection" value="true"/>  
+
+	<delay value="30" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="sleep"  />
+    <set-device-property deviceId="BiLi-C7496W-S" property="powerStatus" value="true"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-C1255D-D" property="sensedPresence" value="true"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-c9a1b173c0" property="sensedPresence" value="true"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-9fe34bec2c" property="sensedPresence" value="false"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-bddbc8da37" property="sensedPresence" value="false"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="DoorWindowSensor-a179beddf5" property="doorWindowSensor.opneningDetection" value="false"/>  
+
+	<delay value="30" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="sleep"  />
+    <set-device-property deviceId="BiLi-C7496W-S" property="powerStatus" value="false"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-C1255D-D" property="sensedPresence" value="false"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-c9a1b173c0" property="sensedPresence" value="false"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-9fe34bec2c" property="sensedPresence" value="false"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-bddbc8da37" property="sensedPresence" value="false"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="DoorWindowSensor-a179beddf5" property="doorWindowSensor.opneningDetection" value="false"/>  
+
+	<delay value="1" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="kitchen"  />
+    <set-device-property deviceId="BiLi-A7496W-S" property="powerStatus" value="true"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-A1255D-D" property="sensedPresence" value="true"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-6d030aeaca" property="sensedPresence" value="false"/> 
+	
+	<delay value="30" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="chair_kitchen"  />
+    <set-device-property deviceId="BiLi-A7496W-S" property="powerStatus" value="true"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-A1255D-D" property="sensedPresence" value="true"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-6d030aeaca" property="sensedPresence" value="true"/>
+    
+    <delay value="30" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="chair_kitchen"  />
+    <set-device-property deviceId="BiLi-A7496W-S" property="powerStatus" value="false"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-A1255D-D" property="sensedPresence" value="false"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-6d030aeaca" property="sensedPresence" value="false"/>  
+
+	<delay value="1" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="toilet"  />
+    <set-device-property deviceId="BiLi-D7496W-S" property="powerStatus" value="true"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-D1255D-D" property="sensedPresence" value="true"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-171dfd4841" property="sensedPresence" value="true"/>     
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-88589bd133" property="sensedPresence" value="false"/> 
+
+	<delay value="15" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="washbasin"  />
+    <set-device-property deviceId="BiLi-D7496W-S" property="powerStatus" value="true"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-D1255D-D" property="sensedPresence" value="true"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-171dfd4841" property="sensedPresence" value="false"/>     
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-88589bd133" property="sensedPresence" value="true"/> 
+	
+	<delay value="1" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="washbasin"  />
+    <set-device-property deviceId="BiLi-D7496W-S" property="powerStatus" value="false"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-D1255D-D" property="sensedPresence" value="false"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-171dfd4841" property="sensedPresence" value="false"/>     
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-88589bd133" property="sensedPresence" value="false"/> 
+
+	<delay value="1" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="armchair"  />
+    <set-device-property deviceId="BiLi-B7496W-S" property="powerStatus" value="true"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-B1255D-D" property="sensedPresence" value="true"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-111d8d6f12" property="sensedPresence" value="true"/> 
+
+	<delay value="120" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="armchair"  />
+    <set-device-property deviceId="BiLi-B7496W-S" property="powerStatus" value="false"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-B1255D-D" property="sensedPresence" value="false"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-111d8d6f12" property="sensedPresence" value="false"/> 
+
+    <delay value="1" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="kitchen"  />
+    <set-device-property deviceId="BiLi-A7496W-S" property="powerStatus" value="true"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-A1255D-D" property="sensedPresence" value="true"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-6d030aeaca" property="sensedPresence" value="false"/>
+
+    <delay value="60" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="chair_kitchen"  />
+    <set-device-property deviceId="BiLi-A7496W-S" property="powerStatus" value="true"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-A1255D-D" property="sensedPresence" value="true"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-6d030aeaca" property="sensedPresence" value="true"/>
+
+    <delay value="60" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="chair_kitchen"  />
+    <set-device-property deviceId="BiLi-A7496W-S" property="powerStatus" value="false"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-A1255D-D" property="sensedPresence" value="false"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-6d030aeaca" property="sensedPresence" value="false"/>     
+
+	<delay value="1" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="armchair"  />
+    <set-device-property deviceId="BiLi-B7496W-S" property="powerStatus" value="true"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-B1255D-D" property="sensedPresence" value="true"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-111d8d6f12" property="sensedPresence" value="true"/>    
+
+	<delay value="120" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="armchair"  />
+    <set-device-property deviceId="BiLi-B7496W-S" property="powerStatus" value="false"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-B1255D-D" property="sensedPresence" value="false"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-111d8d6f12" property="sensedPresence" value="false"/>   
+
+	<delay value="1" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="toilet"  />
+    <set-device-property deviceId="BiLi-D7496W-S" property="powerStatus" value="true"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-D1255D-D" property="sensedPresence" value="true"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-171dfd4841" property="sensedPresence" value="true"/>     
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-88589bd133" property="sensedPresence" value="false"/> 
+
+	<delay value="15" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="toilet"  />
+    <set-device-property deviceId="BiLi-D7496W-S" property="powerStatus" value="false"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-D1255D-D" property="sensedPresence" value="false"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-171dfd4841" property="sensedPresence" value="false"/>     
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-88589bd133" property="sensedPresence" value="false"/> 
+
+	<delay value="1" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="armchair"  />
+    <set-device-property deviceId="BiLi-B7496W-S" property="powerStatus" value="true"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-B1255D-D" property="sensedPresence" value="true"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-111d8d6f12" property="sensedPresence" value="true"/>
+
+   	<delay value="45" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="armchair"  />
+    <set-device-property deviceId="BiLi-B7496W-S" property="powerStatus" value="false"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-B1255D-D" property="sensedPresence" value="false"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-111d8d6f12" property="sensedPresence" value="false"/>  
+
+	<delay value="120" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="kitchen"  />
+    <set-device-property deviceId="BiLi-A7496W-S" property="powerStatus" value="true"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-A1255D-D" property="sensedPresence" value="true"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-6d030aeaca" property="sensedPresence" value="false"/>
+
+    <delay value="60" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="chair_kitchen"  />
+    <set-device-property deviceId="BiLi-A7496W-S" property="powerStatus" value="true"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-A1255D-D" property="sensedPresence" value="true"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-6d030aeaca" property="sensedPresence" value="true"/>
+
+    <delay value="60" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="chair_kitchen"  />
+    <set-device-property deviceId="BiLi-A7496W-S" property="powerStatus" value="false"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-A1255D-D" property="sensedPresence" value="false"/> 
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-6d030aeaca" property="sensedPresence" value="false"/>
+
+   	<delay value="1" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="armchair"  />
+    <set-device-property deviceId="BiLi-B7496W-S" property="powerStatus" value="true"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-B1255D-D" property="sensedPresence" value="true"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-111d8d6f12" property="sensedPresence" value="true"/>
+
+    <delay value="120" unit="m"/>
+    <move-person-zone personId="Paul" zoneId="armchair"  />
+    <set-device-property deviceId="BiLi-B7496W-S" property="powerStatus" value="false"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="Pres-B1255D-D" property="sensedPresence" value="false"/>
+    <delay value="0" unit="h"/>
+    <set-device-property deviceId="PresenceSensor-111d8d6f12" property="sensedPresence" value="false"/>    
+
+</behavior>

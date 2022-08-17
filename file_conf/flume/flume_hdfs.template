@@ -1,0 +1,22 @@
+pool_dir_virtual_house.sources = src-1
+pool_dir_virtual_house.channels = channel-1
+pool_dir_virtual_house.sinks = k1
+
+pool_dir_virtual_house.channels.channel-1.type=memory
+
+#
+#source
+pool_dir_virtual_house.sources.src-1.type = spooldir
+pool_dir_virtual_house.sources.src-1.channels = channel-1
+pool_dir_virtual_house.sources.src-1.spoolDir = C:/icasa.teaching.distribution.with.apps/ficheros
+pool_dir_virtual_house.sources.src-1.deserializer.maxLineLength=10000
+
+# HDFS sinks
+pool_dir_virtual_house.sinks.k1.type = hdfs
+pool_dir_virtual_house.sinks.k1.channel = channel-1
+pool_dir_virtual_house.sinks.k1.hdfs.path  = hdfs://localhost:9000/test
+pool_dir_virtual_house.sinks.k1.hdfs.round = true
+pool_dir_virtual_house.sinks.k1.hdfs.roundValue = 10
+pool_dir_virtual_house.sinks.k1.roundUnit = minute
+
+

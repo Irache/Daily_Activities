@@ -1,0 +1,6 @@
+Activity in bathroom general:10
+Activity in bathroom washbasin:2
+Activity in bathroom toilet:3
+[2022-08-17 18:13:33.742152] - Activity in bathroom general:: 20 
+[2022-08-17 18:13:33.742152] - Activity in bathroom washbasin:: 4 
+[2022-08-17 18:13:33.742152] - Activity in bathroom toilet:: 6 

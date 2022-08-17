@@ -1,0 +1,1114 @@
+[2022-08-17 00:59:34,830] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:00:01,666] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:00:00 =========
+[2022-08-17 01:00:01,725] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:00:00 =========
+[2022-08-17 01:00:02,127] INFO     [__main__.process   :85] Traza primera fÃ­la de datos de entrada:
+[2022-08-17 01:00:04,993] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+2022-08-17 01:00:04,993-__main__-INFO-['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:12:06,757] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:13:01,116] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:13:00 =========
+[2022-08-17 01:13:01,119] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:13:00 =========
+[2022-08-17 01:13:01,345] INFO     [__main__.process   :85] Traza primera fÃ­la de datos de entrada:
+[2022-08-17 01:13:01,350] ERROR    [__main__.process   :154] =====error==== 2022-08-17 01:13:00 =========
+[2022-08-17 01:14:00,147] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:14:00 =========
+[2022-08-17 01:14:00,147] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:14:00 =========
+[2022-08-17 01:14:00,162] INFO     [__main__.process   :85] Traza primera fÃ­la de datos de entrada:
+[2022-08-17 01:14:00,163] ERROR    [__main__.process   :154] =====error==== 2022-08-17 01:14:00 =========
+[2022-08-17 01:16:43,213] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:17:00,945] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:17:00 =========
+[2022-08-17 01:17:00,948] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:17:00 =========
+[2022-08-17 01:17:01,151] INFO     [__main__.process   :85] Traza primera fíla de datos de entrada:
+[2022-08-17 01:17:01,157] ERROR    [__main__.process   :154] =====error==== 2022-08-17 01:17:00 =========
+[2022-08-17 01:18:00,163] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:18:00 =========
+[2022-08-17 01:18:00,163] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:18:00 =========
+[2022-08-17 01:18:00,181] INFO     [__main__.process   :85] Traza primera fíla de datos de entrada:
+[2022-08-17 01:18:00,182] ERROR    [__main__.process   :154] =====error==== 2022-08-17 01:18:00 =========
+[2022-08-17 01:18:28,501] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:18:28,501] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:19:01,414] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:19:00 =========
+[2022-08-17 01:19:01,414] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:19:00 =========
+[2022-08-17 01:19:01,417] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:19:00 =========
+[2022-08-17 01:19:01,417] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:19:00 =========
+[2022-08-17 01:19:01,724] INFO     [__main__.process   :85] Traza primera fíla de datos de entrada:
+[2022-08-17 01:19:01,724] INFO     [__main__.process   :85] Traza primera fíla de datos de entrada:
+[2022-08-17 01:19:04,629] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:19:04,629] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:19:05,863] INFO     [__main__.process   :98] Traza primera fíla de datos de entrada:
+[2022-08-17 01:19:05,863] INFO     [__main__.process   :98] Traza primera fíla de datos de entrada:
+[2022-08-17 01:19:07,123] INFO     [__main__.process   :99] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 01:19:07,123] INFO     [__main__.process   :99] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 01:19:13,063] INFO     [__main__.process   :105] None
+[2022-08-17 01:19:13,063] INFO     [__main__.process   :105] None
+[2022-08-17 01:20:00,152] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:20:00 =========
+[2022-08-17 01:20:00,152] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:20:00 =========
+[2022-08-17 01:20:00,152] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:20:00 =========
+[2022-08-17 01:20:00,152] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:20:00 =========
+[2022-08-17 01:20:00,169] INFO     [__main__.process   :85] Traza primera fíla de datos de entrada:
+[2022-08-17 01:20:00,169] INFO     [__main__.process   :85] Traza primera fíla de datos de entrada:
+[2022-08-17 01:20:00,170] ERROR    [__main__.process   :154] =====error==== 2022-08-17 01:20:00 =========
+[2022-08-17 01:20:00,170] ERROR    [__main__.process   :154] =====error==== 2022-08-17 01:20:00 =========
+[2022-08-17 01:26:49,788] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:26:49,788] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:26:49,788] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:27:01,265] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:27:00 =========
+[2022-08-17 01:27:01,265] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:27:00 =========
+[2022-08-17 01:27:01,265] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:27:00 =========
+[2022-08-17 01:27:01,267] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:27:00 =========
+[2022-08-17 01:27:01,267] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:27:00 =========
+[2022-08-17 01:27:01,267] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:27:00 =========
+[2022-08-17 01:27:01,519] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:27:01,519] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:27:01,519] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:27:04,264] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:27:04,264] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:27:04,264] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:27:05,503] INFO     [__main__.process   :98] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 01:27:05,503] INFO     [__main__.process   :98] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 01:27:05,503] INFO     [__main__.process   :98] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 01:27:06,744] INFO     [__main__.process   :99] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 01:27:06,744] INFO     [__main__.process   :99] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 01:27:06,744] INFO     [__main__.process   :99] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 01:27:12,637] INFO     [__main__.process   :105] iCasaDataFrame schema
+[2022-08-17 01:27:12,637] INFO     [__main__.process   :105] iCasaDataFrame schema
+[2022-08-17 01:27:12,637] INFO     [__main__.process   :105] iCasaDataFrame schema
+[2022-08-17 01:27:12,674] INFO     [__main__.process   :106] None
+[2022-08-17 01:27:12,674] INFO     [__main__.process   :106] None
+[2022-08-17 01:27:12,674] INFO     [__main__.process   :106] None
+[2022-08-17 01:28:00,120] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:28:00 =========
+[2022-08-17 01:28:00,120] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:28:00 =========
+[2022-08-17 01:28:00,120] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:28:00 =========
+[2022-08-17 01:28:00,120] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:28:00 =========
+[2022-08-17 01:28:00,120] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:28:00 =========
+[2022-08-17 01:28:00,120] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:28:00 =========
+[2022-08-17 01:28:00,138] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:28:00,138] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:28:00,138] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:28:00,139] ERROR    [__main__.process   :155] =====error==== 2022-08-17 01:28:00 =========
+[2022-08-17 01:28:00,139] ERROR    [__main__.process   :155] =====error==== 2022-08-17 01:28:00 =========
+[2022-08-17 01:28:00,139] ERROR    [__main__.process   :155] =====error==== 2022-08-17 01:28:00 =========
+[2022-08-17 01:28:44,738] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:28:44,738] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:28:44,738] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:28:44,738] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:29:01,287] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:29:00 =========
+[2022-08-17 01:29:01,287] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:29:00 =========
+[2022-08-17 01:29:01,287] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:29:00 =========
+[2022-08-17 01:29:01,287] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:29:00 =========
+[2022-08-17 01:29:01,290] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:29:00 =========
+[2022-08-17 01:29:01,290] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:29:00 =========
+[2022-08-17 01:29:01,290] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:29:00 =========
+[2022-08-17 01:29:01,290] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:29:00 =========
+[2022-08-17 01:29:01,484] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:29:01,484] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:29:01,484] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:29:01,484] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:29:04,426] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:29:04,426] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:29:04,426] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:29:04,426] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:29:06,133] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 01:29:06,133] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 01:29:06,133] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 01:29:06,133] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 01:29:07,509] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 01:29:07,509] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 01:29:07,509] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 01:29:07,509] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 01:29:07,509] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 01:29:07,509] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 01:29:07,509] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 01:29:07,509] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 01:29:08,832] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 01:29:08,832] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 01:29:08,832] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 01:29:08,832] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 01:29:08,833] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 01:29:08,833] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 01:29:08,833] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 01:29:08,833] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 01:29:10,237] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 01:29:10,237] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 01:29:10,237] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 01:29:10,237] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 01:29:16,362] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 01:29:16,362] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 01:29:16,362] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 01:29:16,362] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 01:29:16,409] INFO     [__main__.process   :108] None
+[2022-08-17 01:29:16,409] INFO     [__main__.process   :108] None
+[2022-08-17 01:29:16,409] INFO     [__main__.process   :108] None
+[2022-08-17 01:29:16,409] INFO     [__main__.process   :108] None
+[2022-08-17 01:30:00,156] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:30:00 =========
+[2022-08-17 01:30:00,156] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:30:00 =========
+[2022-08-17 01:30:00,156] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:30:00 =========
+[2022-08-17 01:30:00,156] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:30:00 =========
+[2022-08-17 01:30:00,156] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:30:00 =========
+[2022-08-17 01:30:00,156] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:30:00 =========
+[2022-08-17 01:30:00,156] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:30:00 =========
+[2022-08-17 01:30:00,156] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:30:00 =========
+[2022-08-17 01:30:00,172] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:30:00,172] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:30:00,172] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:30:00,172] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:30:00,173] ERROR    [__main__.process   :157] =====error==== 2022-08-17 01:30:00 =========
+[2022-08-17 01:30:00,173] ERROR    [__main__.process   :157] =====error==== 2022-08-17 01:30:00 =========
+[2022-08-17 01:30:00,173] ERROR    [__main__.process   :157] =====error==== 2022-08-17 01:30:00 =========
+[2022-08-17 01:30:00,173] ERROR    [__main__.process   :157] =====error==== 2022-08-17 01:30:00 =========
+[2022-08-17 01:34:42,480] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:34:42,480] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:34:42,480] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:34:42,480] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:34:42,480] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:35:02,228] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:35:00 =========
+[2022-08-17 01:35:02,228] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:35:00 =========
+[2022-08-17 01:35:02,228] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:35:00 =========
+[2022-08-17 01:35:02,228] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:35:00 =========
+[2022-08-17 01:35:02,228] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:35:00 =========
+[2022-08-17 01:35:02,230] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:35:00 =========
+[2022-08-17 01:35:02,230] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:35:00 =========
+[2022-08-17 01:35:02,230] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:35:00 =========
+[2022-08-17 01:35:02,230] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:35:00 =========
+[2022-08-17 01:35:02,230] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:35:00 =========
+[2022-08-17 01:35:02,759] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:35:02,759] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:35:02,759] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:35:02,759] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:35:02,759] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:35:06,518] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:35:06,518] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:35:06,518] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:35:06,518] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:35:06,518] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:35:08,056] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 01:35:08,056] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 01:35:08,056] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 01:35:08,056] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 01:35:08,056] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 01:35:09,323] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 01:35:09,323] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 01:35:09,323] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 01:35:09,323] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 01:35:09,323] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 01:35:09,324] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 01:35:09,324] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 01:35:09,324] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 01:35:09,324] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 01:35:09,324] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 01:35:10,580] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 01:35:10,580] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 01:35:10,580] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 01:35:10,580] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 01:35:10,580] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 01:35:10,580] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 01:35:10,580] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 01:35:10,580] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 01:35:10,580] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 01:35:10,580] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 01:35:11,819] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 01:35:11,819] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 01:35:11,819] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 01:35:11,819] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 01:35:11,819] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 01:35:17,786] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 01:35:17,786] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 01:35:17,786] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 01:35:17,786] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 01:35:17,786] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 01:35:17,831] INFO     [__main__.process   :108] None
+[2022-08-17 01:35:17,831] INFO     [__main__.process   :108] None
+[2022-08-17 01:35:17,831] INFO     [__main__.process   :108] None
+[2022-08-17 01:35:17,831] INFO     [__main__.process   :108] None
+[2022-08-17 01:35:17,831] INFO     [__main__.process   :108] None
+[2022-08-17 01:36:00,138] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:36:00 =========
+[2022-08-17 01:36:00,138] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:36:00 =========
+[2022-08-17 01:36:00,138] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:36:00 =========
+[2022-08-17 01:36:00,138] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:36:00 =========
+[2022-08-17 01:36:00,138] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:36:00 =========
+[2022-08-17 01:36:00,139] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:36:00 =========
+[2022-08-17 01:36:00,139] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:36:00 =========
+[2022-08-17 01:36:00,139] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:36:00 =========
+[2022-08-17 01:36:00,139] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:36:00 =========
+[2022-08-17 01:36:00,139] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:36:00 =========
+[2022-08-17 01:36:00,157] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:36:00,157] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:36:00,157] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:36:00,157] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:36:00,157] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:36:00,159] ERROR    [__main__.process   :157] =====error==== 2022-08-17 01:36:00 =========
+[2022-08-17 01:36:00,159] ERROR    [__main__.process   :157] =====error==== 2022-08-17 01:36:00 =========
+[2022-08-17 01:36:00,159] ERROR    [__main__.process   :157] =====error==== 2022-08-17 01:36:00 =========
+[2022-08-17 01:36:00,159] ERROR    [__main__.process   :157] =====error==== 2022-08-17 01:36:00 =========
+[2022-08-17 01:36:00,159] ERROR    [__main__.process   :157] =====error==== 2022-08-17 01:36:00 =========
+[2022-08-17 01:37:36,077] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:37:36,077] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:37:36,077] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:37:36,077] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:37:36,077] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:37:36,077] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:38:01,345] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:38:00 =========
+[2022-08-17 01:38:01,345] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:38:00 =========
+[2022-08-17 01:38:01,345] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:38:00 =========
+[2022-08-17 01:38:01,345] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:38:00 =========
+[2022-08-17 01:38:01,345] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:38:00 =========
+[2022-08-17 01:38:01,345] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:38:00 =========
+[2022-08-17 01:38:01,348] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:38:00 =========
+[2022-08-17 01:38:01,348] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:38:00 =========
+[2022-08-17 01:38:01,348] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:38:00 =========
+[2022-08-17 01:38:01,348] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:38:00 =========
+[2022-08-17 01:38:01,348] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:38:00 =========
+[2022-08-17 01:38:01,348] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:38:00 =========
+[2022-08-17 01:38:01,556] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:38:01,556] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:38:01,556] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:38:01,556] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:38:01,556] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:38:01,556] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:38:03,710] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:38:03,710] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:38:03,710] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:38:03,710] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:38:03,710] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:38:03,710] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:38:04,993] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 01:38:04,993] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 01:38:04,993] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 01:38:04,993] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 01:38:04,993] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 01:38:04,993] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 01:38:06,241] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 01:38:06,241] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 01:38:06,241] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 01:38:06,241] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 01:38:06,241] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 01:38:06,241] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 01:38:06,242] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 01:38:06,242] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 01:38:06,242] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 01:38:06,242] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 01:38:06,242] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 01:38:06,242] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 01:38:07,491] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 01:38:07,491] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 01:38:07,491] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 01:38:07,491] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 01:38:07,491] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 01:38:07,491] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 01:38:07,491] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 01:38:07,491] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 01:38:07,491] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 01:38:07,491] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 01:38:07,491] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 01:38:07,491] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 01:38:08,791] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 01:38:08,791] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 01:38:08,791] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 01:38:08,791] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 01:38:08,791] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 01:38:08,791] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 01:38:15,977] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 01:38:15,977] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 01:38:15,977] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 01:38:15,977] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 01:38:15,977] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 01:38:15,977] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 01:38:16,022] INFO     [__main__.process   :108] None
+[2022-08-17 01:38:16,022] INFO     [__main__.process   :108] None
+[2022-08-17 01:38:16,022] INFO     [__main__.process   :108] None
+[2022-08-17 01:38:16,022] INFO     [__main__.process   :108] None
+[2022-08-17 01:38:16,022] INFO     [__main__.process   :108] None
+[2022-08-17 01:38:16,022] INFO     [__main__.process   :108] None
+[2022-08-17 01:38:26,068] ERROR    [__main__.process   :157] =====error==== 2022-08-17 01:38:00 =========
+[2022-08-17 01:38:26,068] ERROR    [__main__.process   :157] =====error==== 2022-08-17 01:38:00 =========
+[2022-08-17 01:38:26,068] ERROR    [__main__.process   :157] =====error==== 2022-08-17 01:38:00 =========
+[2022-08-17 01:38:26,068] ERROR    [__main__.process   :157] =====error==== 2022-08-17 01:38:00 =========
+[2022-08-17 01:38:26,068] ERROR    [__main__.process   :157] =====error==== 2022-08-17 01:38:00 =========
+[2022-08-17 01:38:26,068] ERROR    [__main__.process   :157] =====error==== 2022-08-17 01:38:00 =========
+[2022-08-17 01:39:00,129] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:39:00 =========
+[2022-08-17 01:39:00,129] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:39:00 =========
+[2022-08-17 01:39:00,129] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:39:00 =========
+[2022-08-17 01:39:00,129] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:39:00 =========
+[2022-08-17 01:39:00,129] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:39:00 =========
+[2022-08-17 01:39:00,129] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:39:00 =========
+[2022-08-17 01:39:00,130] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:39:00 =========
+[2022-08-17 01:39:00,130] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:39:00 =========
+[2022-08-17 01:39:00,130] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:39:00 =========
+[2022-08-17 01:39:00,130] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:39:00 =========
+[2022-08-17 01:39:00,130] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:39:00 =========
+[2022-08-17 01:39:00,130] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:39:00 =========
+[2022-08-17 01:39:00,146] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:39:00,146] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:39:00,146] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:39:00,146] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:39:00,146] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:39:00,146] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:39:00,147] ERROR    [__main__.process   :157] =====error==== 2022-08-17 01:39:00 =========
+[2022-08-17 01:39:00,147] ERROR    [__main__.process   :157] =====error==== 2022-08-17 01:39:00 =========
+[2022-08-17 01:39:00,147] ERROR    [__main__.process   :157] =====error==== 2022-08-17 01:39:00 =========
+[2022-08-17 01:39:00,147] ERROR    [__main__.process   :157] =====error==== 2022-08-17 01:39:00 =========
+[2022-08-17 01:39:00,147] ERROR    [__main__.process   :157] =====error==== 2022-08-17 01:39:00 =========
+[2022-08-17 01:39:00,147] ERROR    [__main__.process   :157] =====error==== 2022-08-17 01:39:00 =========
+[2022-08-17 01:44:05,680] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:44:05,680] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:44:05,680] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:44:05,680] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:44:05,680] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:44:05,680] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:44:05,680] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:45:01,416] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:45:00 =========
+[2022-08-17 01:45:01,416] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:45:00 =========
+[2022-08-17 01:45:01,416] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:45:00 =========
+[2022-08-17 01:45:01,416] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:45:00 =========
+[2022-08-17 01:45:01,416] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:45:00 =========
+[2022-08-17 01:45:01,416] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:45:00 =========
+[2022-08-17 01:45:01,416] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:45:00 =========
+[2022-08-17 01:45:01,419] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:45:00 =========
+[2022-08-17 01:45:01,419] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:45:00 =========
+[2022-08-17 01:45:01,419] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:45:00 =========
+[2022-08-17 01:45:01,419] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:45:00 =========
+[2022-08-17 01:45:01,419] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:45:00 =========
+[2022-08-17 01:45:01,419] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:45:00 =========
+[2022-08-17 01:45:01,419] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:45:00 =========
+[2022-08-17 01:45:01,678] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:45:01,678] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:45:01,678] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:45:01,678] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:45:01,678] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:45:01,678] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:45:01,678] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:45:04,078] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:45:04,078] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:45:04,078] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:45:04,078] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:45:04,078] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:45:04,078] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:45:04,078] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 01:45:05,448] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 01:45:05,448] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 01:45:05,448] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 01:45:05,448] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 01:45:05,448] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 01:45:05,448] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 01:45:05,448] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 01:45:06,817] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 01:45:06,817] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 01:45:06,817] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 01:45:06,817] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 01:45:06,817] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 01:45:06,817] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 01:45:06,817] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 01:45:06,818] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 01:45:06,818] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 01:45:06,818] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 01:45:06,818] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 01:45:06,818] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 01:45:06,818] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 01:45:06,818] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 01:45:08,186] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 01:45:08,186] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 01:45:08,186] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 01:45:08,186] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 01:45:08,186] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 01:45:08,186] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 01:45:08,186] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 01:45:08,187] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 01:45:08,187] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 01:45:08,187] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 01:45:08,187] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 01:45:08,187] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 01:45:08,187] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 01:45:08,187] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 01:45:09,701] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 01:45:09,701] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 01:45:09,701] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 01:45:09,701] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 01:45:09,701] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 01:45:09,701] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 01:45:09,701] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 01:45:16,591] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 01:45:16,591] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 01:45:16,591] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 01:45:16,591] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 01:45:16,591] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 01:45:16,591] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 01:45:16,591] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 01:45:16,637] INFO     [__main__.process   :108] None
+[2022-08-17 01:45:16,637] INFO     [__main__.process   :108] None
+[2022-08-17 01:45:16,637] INFO     [__main__.process   :108] None
+[2022-08-17 01:45:16,637] INFO     [__main__.process   :108] None
+[2022-08-17 01:45:16,637] INFO     [__main__.process   :108] None
+[2022-08-17 01:45:16,637] INFO     [__main__.process   :108] None
+[2022-08-17 01:45:16,637] INFO     [__main__.process   :108] None
+[2022-08-17 01:46:00,129] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:46:00 =========
+[2022-08-17 01:46:00,129] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:46:00 =========
+[2022-08-17 01:46:00,129] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:46:00 =========
+[2022-08-17 01:46:00,129] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:46:00 =========
+[2022-08-17 01:46:00,129] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:46:00 =========
+[2022-08-17 01:46:00,129] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:46:00 =========
+[2022-08-17 01:46:00,129] INFO     [__main__.process   :75] =====Process==== 2022-08-17 01:46:00 =========
+[2022-08-17 01:46:00,129] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:46:00 =========
+[2022-08-17 01:46:00,129] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:46:00 =========
+[2022-08-17 01:46:00,129] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:46:00 =========
+[2022-08-17 01:46:00,129] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:46:00 =========
+[2022-08-17 01:46:00,129] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:46:00 =========
+[2022-08-17 01:46:00,129] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:46:00 =========
+[2022-08-17 01:46:00,129] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 01:46:00 =========
+[2022-08-17 01:46:00,147] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:46:00,147] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:46:00,147] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:46:00,147] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:46:00,147] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:46:00,147] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:46:00,147] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 01:46:00,149] ERROR    [__main__.process   :156] =====error==== 2022-08-17 01:46:00 =========
+[2022-08-17 01:46:00,149] ERROR    [__main__.process   :156] =====error==== 2022-08-17 01:46:00 =========
+[2022-08-17 01:46:00,149] ERROR    [__main__.process   :156] =====error==== 2022-08-17 01:46:00 =========
+[2022-08-17 01:46:00,149] ERROR    [__main__.process   :156] =====error==== 2022-08-17 01:46:00 =========
+[2022-08-17 01:46:00,149] ERROR    [__main__.process   :156] =====error==== 2022-08-17 01:46:00 =========
+[2022-08-17 01:46:00,149] ERROR    [__main__.process   :156] =====error==== 2022-08-17 01:46:00 =========
+[2022-08-17 01:46:00,149] ERROR    [__main__.process   :156] =====error==== 2022-08-17 01:46:00 =========
+[2022-08-17 01:54:44,875] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:54:44,875] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:54:44,875] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:54:44,875] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:54:44,875] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:54:44,875] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:54:44,875] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:54:44,875] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:59:40,937] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:59:40,937] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:59:40,937] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:59:40,937] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:59:40,937] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:59:40,937] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:59:40,937] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:59:40,937] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 01:59:40,937] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 02:01:20,878] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 02:01:20,878] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 02:01:20,878] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 02:01:20,878] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 02:01:20,878] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 02:01:20,878] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 02:01:20,878] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 02:01:20,878] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 02:01:20,878] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 02:01:20,878] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 02:02:01,416] INFO     [__main__.process   :75] =====Process==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:01,416] INFO     [__main__.process   :75] =====Process==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:01,416] INFO     [__main__.process   :75] =====Process==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:01,416] INFO     [__main__.process   :75] =====Process==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:01,416] INFO     [__main__.process   :75] =====Process==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:01,416] INFO     [__main__.process   :75] =====Process==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:01,416] INFO     [__main__.process   :75] =====Process==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:01,416] INFO     [__main__.process   :75] =====Process==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:01,416] INFO     [__main__.process   :75] =====Process==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:01,416] INFO     [__main__.process   :75] =====Process==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:01,419] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:01,419] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:01,419] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:01,419] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:01,419] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:01,419] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:01,419] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:01,419] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:01,419] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:01,419] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:01,624] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 02:02:01,624] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 02:02:01,624] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 02:02:01,624] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 02:02:01,624] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 02:02:01,624] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 02:02:01,624] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 02:02:01,624] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 02:02:01,624] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 02:02:01,624] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 02:02:03,920] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 02:02:03,920] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 02:02:03,920] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 02:02:03,920] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 02:02:03,920] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 02:02:03,920] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 02:02:03,920] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 02:02:03,920] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 02:02:03,920] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 02:02:03,920] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 02:02:05,325] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 02:02:05,325] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 02:02:05,325] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 02:02:05,325] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 02:02:05,325] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 02:02:05,325] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 02:02:05,325] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 02:02:05,325] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 02:02:05,325] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 02:02:05,325] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 02:02:06,666] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 02:02:06,666] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 02:02:06,666] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 02:02:06,666] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 02:02:06,666] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 02:02:06,666] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 02:02:06,666] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 02:02:06,666] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 02:02:06,666] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 02:02:06,666] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 02:02:06,667] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 02:02:06,667] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 02:02:06,667] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 02:02:06,667] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 02:02:06,667] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 02:02:06,667] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 02:02:06,667] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 02:02:06,667] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 02:02:06,667] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 02:02:06,667] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 02:02:08,060] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 02:02:08,060] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 02:02:08,060] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 02:02:08,060] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 02:02:08,060] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 02:02:08,060] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 02:02:08,060] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 02:02:08,060] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 02:02:08,060] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 02:02:08,060] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 02:02:08,061] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 02:02:08,061] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 02:02:08,061] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 02:02:08,061] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 02:02:08,061] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 02:02:08,061] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 02:02:08,061] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 02:02:08,061] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 02:02:08,061] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 02:02:08,061] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 02:02:09,765] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 02:02:09,765] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 02:02:09,765] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 02:02:09,765] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 02:02:09,765] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 02:02:09,765] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 02:02:09,765] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 02:02:09,765] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 02:02:09,765] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 02:02:09,765] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 02:02:18,271] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 02:02:18,271] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 02:02:18,271] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 02:02:18,271] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 02:02:18,271] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 02:02:18,271] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 02:02:18,271] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 02:02:18,271] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 02:02:18,271] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 02:02:18,271] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 02:02:18,317] INFO     [__main__.process   :108] None
+[2022-08-17 02:02:18,317] INFO     [__main__.process   :108] None
+[2022-08-17 02:02:18,317] INFO     [__main__.process   :108] None
+[2022-08-17 02:02:18,317] INFO     [__main__.process   :108] None
+[2022-08-17 02:02:18,317] INFO     [__main__.process   :108] None
+[2022-08-17 02:02:18,317] INFO     [__main__.process   :108] None
+[2022-08-17 02:02:18,317] INFO     [__main__.process   :108] None
+[2022-08-17 02:02:18,317] INFO     [__main__.process   :108] None
+[2022-08-17 02:02:18,317] INFO     [__main__.process   :108] None
+[2022-08-17 02:02:18,317] INFO     [__main__.process   :108] None
+[2022-08-17 02:02:37,711] ERROR    [__main__.process   :189] =====error==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:37,711] ERROR    [__main__.process   :189] =====error==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:37,711] ERROR    [__main__.process   :189] =====error==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:37,711] ERROR    [__main__.process   :189] =====error==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:37,711] ERROR    [__main__.process   :189] =====error==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:37,711] ERROR    [__main__.process   :189] =====error==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:37,711] ERROR    [__main__.process   :189] =====error==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:37,711] ERROR    [__main__.process   :189] =====error==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:37,711] ERROR    [__main__.process   :189] =====error==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:02:37,711] ERROR    [__main__.process   :189] =====error==== 2022-08-17 02:02:00 =========
+[2022-08-17 02:03:00,182] INFO     [__main__.process   :75] =====Process==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,182] INFO     [__main__.process   :75] =====Process==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,182] INFO     [__main__.process   :75] =====Process==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,182] INFO     [__main__.process   :75] =====Process==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,182] INFO     [__main__.process   :75] =====Process==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,182] INFO     [__main__.process   :75] =====Process==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,182] INFO     [__main__.process   :75] =====Process==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,182] INFO     [__main__.process   :75] =====Process==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,182] INFO     [__main__.process   :75] =====Process==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,182] INFO     [__main__.process   :75] =====Process==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,184] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,184] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,184] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,184] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,184] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,184] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,184] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,184] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,184] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,184] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,211] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 02:03:00,211] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 02:03:00,211] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 02:03:00,211] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 02:03:00,211] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 02:03:00,211] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 02:03:00,211] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 02:03:00,211] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 02:03:00,211] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 02:03:00,211] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 02:03:00,213] ERROR    [__main__.process   :189] =====error==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,213] ERROR    [__main__.process   :189] =====error==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,213] ERROR    [__main__.process   :189] =====error==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,213] ERROR    [__main__.process   :189] =====error==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,213] ERROR    [__main__.process   :189] =====error==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,213] ERROR    [__main__.process   :189] =====error==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,213] ERROR    [__main__.process   :189] =====error==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,213] ERROR    [__main__.process   :189] =====error==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,213] ERROR    [__main__.process   :189] =====error==== 2022-08-17 02:03:00 =========
+[2022-08-17 02:03:00,213] ERROR    [__main__.process   :189] =====error==== 2022-08-17 02:03:00 =========
+[2022-08-17 17:08:40,086] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 17:08:40,086] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 17:08:40,086] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 17:08:40,086] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 17:08:40,086] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 17:08:40,086] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 17:08:40,086] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 17:08:40,086] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 17:08:40,086] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 17:08:40,086] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 17:08:40,086] INFO     [__main__.<module>  :69] Antes de entrar: DataiCasa
+[2022-08-17 17:09:09,684] INFO     [__main__.process   :75] =====Process==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:09,684] INFO     [__main__.process   :75] =====Process==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:09,684] INFO     [__main__.process   :75] =====Process==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:09,684] INFO     [__main__.process   :75] =====Process==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:09,684] INFO     [__main__.process   :75] =====Process==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:09,684] INFO     [__main__.process   :75] =====Process==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:09,684] INFO     [__main__.process   :75] =====Process==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:09,684] INFO     [__main__.process   :75] =====Process==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:09,684] INFO     [__main__.process   :75] =====Process==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:09,684] INFO     [__main__.process   :75] =====Process==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:09,684] INFO     [__main__.process   :75] =====Process==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:09,687] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:09,687] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:09,687] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:09,687] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:09,687] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:09,687] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:09,687] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:09,687] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:09,687] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:09,687] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:09,687] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:11,212] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 17:09:11,212] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 17:09:11,212] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 17:09:11,212] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 17:09:11,212] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 17:09:11,212] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 17:09:11,212] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 17:09:11,212] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 17:09:11,212] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 17:09:11,212] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 17:09:11,212] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 17:09:17,259] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 17:09:17,259] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 17:09:17,259] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 17:09:17,259] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 17:09:17,259] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 17:09:17,259] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 17:09:17,259] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 17:09:17,259] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 17:09:17,259] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 17:09:17,259] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 17:09:17,259] INFO     [__main__.process   :86] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 17:09:18,496] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 17:09:18,496] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 17:09:18,496] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 17:09:18,496] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 17:09:18,496] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 17:09:18,496] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 17:09:18,496] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 17:09:18,496] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 17:09:18,496] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 17:09:18,496] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 17:09:18,496] INFO     [__main__.process   :92] Traza lambda:
+[2022-08-17 17:09:19,755] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 17:09:19,755] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 17:09:19,755] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 17:09:19,755] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 17:09:19,755] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 17:09:19,755] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 17:09:19,755] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 17:09:19,755] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 17:09:19,755] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 17:09:19,755] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 17:09:19,755] INFO     [__main__.process   :93] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 17:09:19,755] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 17:09:19,755] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 17:09:19,755] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 17:09:19,755] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 17:09:19,755] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 17:09:19,755] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 17:09:19,755] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 17:09:19,755] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 17:09:19,755] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 17:09:19,755] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 17:09:19,755] INFO     [__main__.process   :96] Traza split:
+[2022-08-17 17:09:20,999] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 17:09:20,999] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 17:09:20,999] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 17:09:20,999] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 17:09:20,999] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 17:09:20,999] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 17:09:20,999] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 17:09:20,999] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 17:09:20,999] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 17:09:20,999] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 17:09:20,999] INFO     [__main__.process   :97] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 17:09:21,000] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 17:09:21,000] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 17:09:21,000] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 17:09:21,000] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 17:09:21,000] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 17:09:21,000] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 17:09:21,000] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 17:09:21,000] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 17:09:21,000] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 17:09:21,000] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 17:09:21,000] INFO     [__main__.process   :100] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 17:09:22,300] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 17:09:22,300] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 17:09:22,300] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 17:09:22,300] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 17:09:22,300] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 17:09:22,300] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 17:09:22,300] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 17:09:22,300] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 17:09:22,300] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 17:09:22,300] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 17:09:22,300] INFO     [__main__.process   :101] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 17:09:30,637] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 17:09:30,637] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 17:09:30,637] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 17:09:30,637] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 17:09:30,637] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 17:09:30,637] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 17:09:30,637] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 17:09:30,637] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 17:09:30,637] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 17:09:30,637] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 17:09:30,637] INFO     [__main__.process   :107] iCasaDataFrame schema
+[2022-08-17 17:09:30,673] INFO     [__main__.process   :108] None
+[2022-08-17 17:09:30,673] INFO     [__main__.process   :108] None
+[2022-08-17 17:09:30,673] INFO     [__main__.process   :108] None
+[2022-08-17 17:09:30,673] INFO     [__main__.process   :108] None
+[2022-08-17 17:09:30,673] INFO     [__main__.process   :108] None
+[2022-08-17 17:09:30,673] INFO     [__main__.process   :108] None
+[2022-08-17 17:09:30,673] INFO     [__main__.process   :108] None
+[2022-08-17 17:09:30,673] INFO     [__main__.process   :108] None
+[2022-08-17 17:09:30,673] INFO     [__main__.process   :108] None
+[2022-08-17 17:09:30,673] INFO     [__main__.process   :108] None
+[2022-08-17 17:09:30,673] INFO     [__main__.process   :108] None
+[2022-08-17 17:09:35,244] ERROR    [__main__.process   :251] =====error==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:35,244] ERROR    [__main__.process   :251] =====error==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:35,244] ERROR    [__main__.process   :251] =====error==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:35,244] ERROR    [__main__.process   :251] =====error==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:35,244] ERROR    [__main__.process   :251] =====error==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:35,244] ERROR    [__main__.process   :251] =====error==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:35,244] ERROR    [__main__.process   :251] =====error==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:35,244] ERROR    [__main__.process   :251] =====error==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:35,244] ERROR    [__main__.process   :251] =====error==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:35,244] ERROR    [__main__.process   :251] =====error==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:09:35,244] ERROR    [__main__.process   :251] =====error==== 2022-08-17 17:09:00 =========
+[2022-08-17 17:10:00,111] INFO     [__main__.process   :75] =====Process==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,111] INFO     [__main__.process   :75] =====Process==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,111] INFO     [__main__.process   :75] =====Process==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,111] INFO     [__main__.process   :75] =====Process==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,111] INFO     [__main__.process   :75] =====Process==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,111] INFO     [__main__.process   :75] =====Process==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,111] INFO     [__main__.process   :75] =====Process==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,111] INFO     [__main__.process   :75] =====Process==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,111] INFO     [__main__.process   :75] =====Process==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,111] INFO     [__main__.process   :75] =====Process==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,111] INFO     [__main__.process   :75] =====Process==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,112] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,112] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,112] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,112] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,112] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,112] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,112] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,112] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,112] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,112] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,112] INFO     [__main__.process   :79] =====Transformaciones==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,130] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 17:10:00,130] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 17:10:00,130] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 17:10:00,130] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 17:10:00,130] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 17:10:00,130] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 17:10:00,130] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 17:10:00,130] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 17:10:00,130] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 17:10:00,130] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 17:10:00,130] INFO     [__main__.process   :85] Traza primera fila de datos de entrada:
+[2022-08-17 17:10:00,132] ERROR    [__main__.process   :251] =====error==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,132] ERROR    [__main__.process   :251] =====error==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,132] ERROR    [__main__.process   :251] =====error==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,132] ERROR    [__main__.process   :251] =====error==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,132] ERROR    [__main__.process   :251] =====error==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,132] ERROR    [__main__.process   :251] =====error==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,132] ERROR    [__main__.process   :251] =====error==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,132] ERROR    [__main__.process   :251] =====error==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,132] ERROR    [__main__.process   :251] =====error==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,132] ERROR    [__main__.process   :251] =====error==== 2022-08-17 17:10:00 =========
+[2022-08-17 17:10:00,132] ERROR    [__main__.process   :251] =====error==== 2022-08-17 17:10:00 =========
+[2022-08-17 18:13:56,484] INFO     [__main__.<module>  :83] Antes de entrar: DataiCasa
+[2022-08-17 18:13:56,484] INFO     [__main__.<module>  :83] Antes de entrar: DataiCasa
+[2022-08-17 18:13:56,484] INFO     [__main__.<module>  :83] Antes de entrar: DataiCasa
+[2022-08-17 18:13:56,484] INFO     [__main__.<module>  :83] Antes de entrar: DataiCasa
+[2022-08-17 18:13:56,484] INFO     [__main__.<module>  :83] Antes de entrar: DataiCasa
+[2022-08-17 18:13:56,484] INFO     [__main__.<module>  :83] Antes de entrar: DataiCasa
+[2022-08-17 18:13:56,484] INFO     [__main__.<module>  :83] Antes de entrar: DataiCasa
+[2022-08-17 18:13:56,484] INFO     [__main__.<module>  :83] Antes de entrar: DataiCasa
+[2022-08-17 18:13:56,484] INFO     [__main__.<module>  :83] Antes de entrar: DataiCasa
+[2022-08-17 18:13:56,484] INFO     [__main__.<module>  :83] Antes de entrar: DataiCasa
+[2022-08-17 18:13:56,484] INFO     [__main__.<module>  :83] Antes de entrar: DataiCasa
+[2022-08-17 18:13:56,484] INFO     [__main__.<module>  :83] Antes de entrar: DataiCasa
+[2022-08-17 18:14:01,565] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:14:00 =========
+[2022-08-17 18:14:01,565] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:14:00 =========
+[2022-08-17 18:14:01,565] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:14:00 =========
+[2022-08-17 18:14:01,565] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:14:00 =========
+[2022-08-17 18:14:01,565] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:14:00 =========
+[2022-08-17 18:14:01,565] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:14:00 =========
+[2022-08-17 18:14:01,565] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:14:00 =========
+[2022-08-17 18:14:01,565] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:14:00 =========
+[2022-08-17 18:14:01,565] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:14:00 =========
+[2022-08-17 18:14:01,565] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:14:00 =========
+[2022-08-17 18:14:01,565] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:14:00 =========
+[2022-08-17 18:14:01,565] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:14:00 =========
+[2022-08-17 18:14:01,567] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:14:00 =========
+[2022-08-17 18:14:01,567] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:14:00 =========
+[2022-08-17 18:14:01,567] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:14:00 =========
+[2022-08-17 18:14:01,567] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:14:00 =========
+[2022-08-17 18:14:01,567] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:14:00 =========
+[2022-08-17 18:14:01,567] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:14:00 =========
+[2022-08-17 18:14:01,567] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:14:00 =========
+[2022-08-17 18:14:01,567] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:14:00 =========
+[2022-08-17 18:14:01,567] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:14:00 =========
+[2022-08-17 18:14:01,567] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:14:00 =========
+[2022-08-17 18:14:01,567] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:14:00 =========
+[2022-08-17 18:14:01,567] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:14:00 =========
+[2022-08-17 18:14:01,810] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:14:01,810] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:14:01,810] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:14:01,810] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:14:01,810] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:14:01,810] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:14:01,810] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:14:01,810] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:14:01,810] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:14:01,810] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:14:01,810] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:14:01,810] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:14:04,080] INFO     [__main__.process   :100] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 18:14:04,080] INFO     [__main__.process   :100] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 18:14:04,080] INFO     [__main__.process   :100] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 18:14:04,080] INFO     [__main__.process   :100] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 18:14:04,080] INFO     [__main__.process   :100] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 18:14:04,080] INFO     [__main__.process   :100] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 18:14:04,080] INFO     [__main__.process   :100] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 18:14:04,080] INFO     [__main__.process   :100] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 18:14:04,080] INFO     [__main__.process   :100] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 18:14:04,080] INFO     [__main__.process   :100] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 18:14:04,080] INFO     [__main__.process   :100] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 18:14:04,080] INFO     [__main__.process   :100] ['2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom']
+[2022-08-17 18:14:05,343] INFO     [__main__.process   :106] Traza lambda:
+[2022-08-17 18:14:05,343] INFO     [__main__.process   :106] Traza lambda:
+[2022-08-17 18:14:05,343] INFO     [__main__.process   :106] Traza lambda:
+[2022-08-17 18:14:05,343] INFO     [__main__.process   :106] Traza lambda:
+[2022-08-17 18:14:05,343] INFO     [__main__.process   :106] Traza lambda:
+[2022-08-17 18:14:05,343] INFO     [__main__.process   :106] Traza lambda:
+[2022-08-17 18:14:05,343] INFO     [__main__.process   :106] Traza lambda:
+[2022-08-17 18:14:05,343] INFO     [__main__.process   :106] Traza lambda:
+[2022-08-17 18:14:05,343] INFO     [__main__.process   :106] Traza lambda:
+[2022-08-17 18:14:05,343] INFO     [__main__.process   :106] Traza lambda:
+[2022-08-17 18:14:05,343] INFO     [__main__.process   :106] Traza lambda:
+[2022-08-17 18:14:05,343] INFO     [__main__.process   :106] Traza lambda:
+[2022-08-17 18:14:06,617] INFO     [__main__.process   :107] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 18:14:06,617] INFO     [__main__.process   :107] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 18:14:06,617] INFO     [__main__.process   :107] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 18:14:06,617] INFO     [__main__.process   :107] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 18:14:06,617] INFO     [__main__.process   :107] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 18:14:06,617] INFO     [__main__.process   :107] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 18:14:06,617] INFO     [__main__.process   :107] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 18:14:06,617] INFO     [__main__.process   :107] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 18:14:06,617] INFO     [__main__.process   :107] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 18:14:06,617] INFO     [__main__.process   :107] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 18:14:06,617] INFO     [__main__.process   :107] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 18:14:06,617] INFO     [__main__.process   :107] 2022-07-02 08:00:00,BiLi-C7496W-S,powerStatus,off,bedroom
+[2022-08-17 18:14:06,618] INFO     [__main__.process   :110] Traza split:
+[2022-08-17 18:14:06,618] INFO     [__main__.process   :110] Traza split:
+[2022-08-17 18:14:06,618] INFO     [__main__.process   :110] Traza split:
+[2022-08-17 18:14:06,618] INFO     [__main__.process   :110] Traza split:
+[2022-08-17 18:14:06,618] INFO     [__main__.process   :110] Traza split:
+[2022-08-17 18:14:06,618] INFO     [__main__.process   :110] Traza split:
+[2022-08-17 18:14:06,618] INFO     [__main__.process   :110] Traza split:
+[2022-08-17 18:14:06,618] INFO     [__main__.process   :110] Traza split:
+[2022-08-17 18:14:06,618] INFO     [__main__.process   :110] Traza split:
+[2022-08-17 18:14:06,618] INFO     [__main__.process   :110] Traza split:
+[2022-08-17 18:14:06,618] INFO     [__main__.process   :110] Traza split:
+[2022-08-17 18:14:06,618] INFO     [__main__.process   :110] Traza split:
+[2022-08-17 18:14:07,904] INFO     [__main__.process   :111] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 18:14:07,904] INFO     [__main__.process   :111] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 18:14:07,904] INFO     [__main__.process   :111] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 18:14:07,904] INFO     [__main__.process   :111] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 18:14:07,904] INFO     [__main__.process   :111] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 18:14:07,904] INFO     [__main__.process   :111] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 18:14:07,904] INFO     [__main__.process   :111] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 18:14:07,904] INFO     [__main__.process   :111] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 18:14:07,904] INFO     [__main__.process   :111] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 18:14:07,904] INFO     [__main__.process   :111] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 18:14:07,904] INFO     [__main__.process   :111] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 18:14:07,904] INFO     [__main__.process   :111] ['2022-07-02 08:00:00', 'BiLi-C7496W-S', 'powerStatus', 'off', 'bedroom']
+[2022-08-17 18:14:07,905] INFO     [__main__.process   :114] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 18:14:07,905] INFO     [__main__.process   :114] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 18:14:07,905] INFO     [__main__.process   :114] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 18:14:07,905] INFO     [__main__.process   :114] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 18:14:07,905] INFO     [__main__.process   :114] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 18:14:07,905] INFO     [__main__.process   :114] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 18:14:07,905] INFO     [__main__.process   :114] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 18:14:07,905] INFO     [__main__.process   :114] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 18:14:07,905] INFO     [__main__.process   :114] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 18:14:07,905] INFO     [__main__.process   :114] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 18:14:07,905] INFO     [__main__.process   :114] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 18:14:07,905] INFO     [__main__.process   :114] Primer elemento de los datos formateados con el nombre de las columnas:
+[2022-08-17 18:14:09,150] INFO     [__main__.process   :115] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 18:14:09,150] INFO     [__main__.process   :115] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 18:14:09,150] INFO     [__main__.process   :115] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 18:14:09,150] INFO     [__main__.process   :115] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 18:14:09,150] INFO     [__main__.process   :115] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 18:14:09,150] INFO     [__main__.process   :115] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 18:14:09,150] INFO     [__main__.process   :115] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 18:14:09,150] INFO     [__main__.process   :115] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 18:14:09,150] INFO     [__main__.process   :115] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 18:14:09,150] INFO     [__main__.process   :115] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 18:14:09,150] INFO     [__main__.process   :115] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 18:14:09,150] INFO     [__main__.process   :115] Row(dateTime='2022-07-02 08:00:00', idDevice='BiLi-C7496W-S', propertyDevice='powerStatus', valuePropertyDevice='off', area='bedroom')
+[2022-08-17 18:14:15,039] INFO     [__main__.process   :121] iCasaDataFrame schema
+[2022-08-17 18:14:15,039] INFO     [__main__.process   :121] iCasaDataFrame schema
+[2022-08-17 18:14:15,039] INFO     [__main__.process   :121] iCasaDataFrame schema
+[2022-08-17 18:14:15,039] INFO     [__main__.process   :121] iCasaDataFrame schema
+[2022-08-17 18:14:15,039] INFO     [__main__.process   :121] iCasaDataFrame schema
+[2022-08-17 18:14:15,039] INFO     [__main__.process   :121] iCasaDataFrame schema
+[2022-08-17 18:14:15,039] INFO     [__main__.process   :121] iCasaDataFrame schema
+[2022-08-17 18:14:15,039] INFO     [__main__.process   :121] iCasaDataFrame schema
+[2022-08-17 18:14:15,039] INFO     [__main__.process   :121] iCasaDataFrame schema
+[2022-08-17 18:14:15,039] INFO     [__main__.process   :121] iCasaDataFrame schema
+[2022-08-17 18:14:15,039] INFO     [__main__.process   :121] iCasaDataFrame schema
+[2022-08-17 18:14:15,039] INFO     [__main__.process   :121] iCasaDataFrame schema
+[2022-08-17 18:14:15,089] INFO     [__main__.process   :122] None
+[2022-08-17 18:14:15,089] INFO     [__main__.process   :122] None
+[2022-08-17 18:14:15,089] INFO     [__main__.process   :122] None
+[2022-08-17 18:14:15,089] INFO     [__main__.process   :122] None
+[2022-08-17 18:14:15,089] INFO     [__main__.process   :122] None
+[2022-08-17 18:14:15,089] INFO     [__main__.process   :122] None
+[2022-08-17 18:14:15,089] INFO     [__main__.process   :122] None
+[2022-08-17 18:14:15,089] INFO     [__main__.process   :122] None
+[2022-08-17 18:14:15,089] INFO     [__main__.process   :122] None
+[2022-08-17 18:14:15,089] INFO     [__main__.process   :122] None
+[2022-08-17 18:14:15,089] INFO     [__main__.process   :122] None
+[2022-08-17 18:14:15,089] INFO     [__main__.process   :122] None
+[2022-08-17 18:15:00,113] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,113] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,113] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,113] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,113] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,113] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,113] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,113] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,113] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,113] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,113] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,113] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,114] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,114] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,114] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,114] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,114] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,114] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,114] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,114] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,114] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,114] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,114] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,114] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,132] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:15:00,132] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:15:00,132] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:15:00,132] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:15:00,132] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:15:00,132] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:15:00,132] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:15:00,132] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:15:00,132] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:15:00,132] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:15:00,132] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:15:00,132] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:15:00,133] ERROR    [__main__.process   :265] =====error==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,133] ERROR    [__main__.process   :265] =====error==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,133] ERROR    [__main__.process   :265] =====error==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,133] ERROR    [__main__.process   :265] =====error==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,133] ERROR    [__main__.process   :265] =====error==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,133] ERROR    [__main__.process   :265] =====error==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,133] ERROR    [__main__.process   :265] =====error==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,133] ERROR    [__main__.process   :265] =====error==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,133] ERROR    [__main__.process   :265] =====error==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,133] ERROR    [__main__.process   :265] =====error==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,133] ERROR    [__main__.process   :265] =====error==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:15:00,133] ERROR    [__main__.process   :265] =====error==== 2022-08-17 18:15:00 =========
+[2022-08-17 18:16:00,153] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,153] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,153] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,153] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,153] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,153] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,153] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,153] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,153] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,153] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,153] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,153] INFO     [__main__.process   :89] =====Process==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,153] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,153] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,153] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,153] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,153] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,153] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,153] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,153] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,153] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,153] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,153] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,153] INFO     [__main__.process   :93] =====Transformaciones==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,170] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:16:00,170] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:16:00,170] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:16:00,170] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:16:00,170] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:16:00,170] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:16:00,170] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:16:00,170] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:16:00,170] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:16:00,170] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:16:00,170] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:16:00,170] INFO     [__main__.process   :99] Traza primera fila de datos de entrada:
+[2022-08-17 18:16:00,172] ERROR    [__main__.process   :265] =====error==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,172] ERROR    [__main__.process   :265] =====error==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,172] ERROR    [__main__.process   :265] =====error==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,172] ERROR    [__main__.process   :265] =====error==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,172] ERROR    [__main__.process   :265] =====error==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,172] ERROR    [__main__.process   :265] =====error==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,172] ERROR    [__main__.process   :265] =====error==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,172] ERROR    [__main__.process   :265] =====error==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,172] ERROR    [__main__.process   :265] =====error==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,172] ERROR    [__main__.process   :265] =====error==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,172] ERROR    [__main__.process   :265] =====error==== 2022-08-17 18:16:00 =========
+[2022-08-17 18:16:00,172] ERROR    [__main__.process   :265] =====error==== 2022-08-17 18:16:00 =========
