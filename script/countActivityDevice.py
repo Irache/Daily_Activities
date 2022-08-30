@@ -188,7 +188,7 @@ if __name__ == "__main__":
             
             result_activity_bathroom = df_bathroom_powerStatus.count() + df_bathroom_sensedPresence.count()
             f = open("%s/resultados/Activity_bathroom_basic_house_one_day_dataset.txt" % workPath, "a")
-            f.write('[%s] - Activity in bathroom light + presencesensor: %i \n' % (d, result_activity_bathroom))
+            f.write('[%s] - Activity in bathroom light + presence sensor: %i \n' % (d, result_activity_bathroom))
             f.write('[%s] - Activity in bathroom presence sensor washbasin: %i \n' % (d, df_bathroom_sensedPresence_washbasin.count()))
             f.write('[%s] - Activity in bathroom presence sensor toilet: %i \n' % (d, df_bathroom_sensedPresence_toilet.count()))
             f.close()  
@@ -221,7 +221,7 @@ if __name__ == "__main__":
             result_activity_eating = df_kitchen_sensedPresence_eating.count()
             
             f = open("%s/resultados/Activity_kitchen_basic_house_one_day_dataset.txt" % workPath, "a")
-            f.write('[%s] - Activity in kitchen light + presencesensor: %i \n' % (d,  result_activity_cooking ))            
+            f.write('[%s] - Activity in kitchen light + presence sensor: %i \n' % (d,  result_activity_cooking ))            
             f.write('[%s] - Activity in kitchen presesensor eating: %i \n' % (d, result_activity_eating))
             f.close()   
             
@@ -246,7 +246,7 @@ if __name__ == "__main__":
             
             result_activity_livingroom = df_livingroom_powerStatus.count() + df_livingroom_sensedPresence.count()+df_livingroom_sensedPresence_armchair.count()
             f = open("%s/resultados/Activity_livingroom_SetupHouseWithLights_test_one_day.txt" % workPath, "a")
-            f.write('[%s] - Activity in livingroom light + presencesensor: %i \n' % (d, result_activity_livingroom))
+            f.write('[%s] - Activity in livingroom light + presence sensor: %i \n' % (d, result_activity_livingroom))
             f.close()    
             print("Activity in livingroom:%s" % result_activity_livingroom)  
             # Close Activity in livingroom ===============================
