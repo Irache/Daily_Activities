@@ -141,11 +141,9 @@ if __name__ == "__main__":
             # Activity in bedroom: sleep + dressing + other=================================
             # General
             count_device_status_on_for_area(DFDeviceMap, 'powerStatus', 'bedroom', 'bedroom')
-            count_device_status_on_for_area(DFDeviceMap, 'sensedPresence', 'bedroom', 'bedroom')
-            
+            count_device_status_on_for_area(DFDeviceMap, 'sensedPresence', 'bedroom', 'bedroom')            
             # Sleep
-            count_device_status_on_for_area(DFDeviceMap, 'sensedPresence', 'sleep', 'bedroom')
-            
+            count_device_status_on_for_area(DFDeviceMap, 'sensedPresence', 'sleep', 'bedroom')            
             # Dressing
             count_device_status_on_for_area(DFDeviceMap, 'sensedPresence', 'wardrobe', 'bedroom')
             count_device_status_on_for_area(DFDeviceMap, 'doorWindowSensor.opneningDetection', 'wardrobe', 'bedroom')
@@ -155,8 +153,7 @@ if __name__ == "__main__":
             count_device_status_on_for_area(DFDeviceMap, 'powerStatus', 'bathroom', 'bathroom')
             count_device_status_on_for_area(DFDeviceMap, 'sensedPresence', 'bathroom', 'bathroom')
             count_device_status_on_for_area(DFDeviceMap, 'sensedPresence', 'toilet', 'bathroom')
-            count_device_status_on_for_area(DFDeviceMap, 'sensedPresence', 'washbasin', 'bathroom')
-            
+            count_device_status_on_for_area(DFDeviceMap, 'sensedPresence', 'washbasin', 'bathroom')            
             
             #Activity in kitchen===============================
             logger.info("contador de dispositivo kitchen. count_device_status_on_for_area")
