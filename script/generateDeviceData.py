@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jul 29 19:12:00 2022
+Created on Fri Jul 29 13:30:35 2022
 
 @author: Irache Garamendi Bragado
 """
@@ -22,11 +22,14 @@ import pathlib
 path = sys.argv[1]
 path_spark = sys.argv[2]
 # Genera la lista de todos los ficheros del directorio path
+
+
  
 fun = lambda x : os.path.isfile(os.path.join(path,x))
 files_list = filter(fun, os.listdir(path))
 
 # Crea la lista de ficheros del directorio path junto con su tamaño
+
 size_of_file = [
     (f,os.stat(os.path.join(path, f)).st_size)
     for f in files_list
@@ -67,14 +70,22 @@ for f,s in size_of_file:
                 for time in times:
                     if time.getAttribute("unit") == "h":
                         datedelay = datetime.timedelta(hours=int(time.getAttribute("value")),minutes=00,seconds=000)
+                    elif time.getAttribute("unit") == "m":
+                        datedelay = datetime.timedelta(hours=00,minutes=int(time.getAttribute("value")),seconds=000)
                     else:
-                        datedelay = datetime.timedelta(hours=00,minutes=int(time.getAttribute("value")),seconds=000)  
+                        datedelay = datetime.timedelta(hours=00,minutes=int(time.getAttribute("value")),seconds=int(time.getAttribute("value")))  
                     datedevice = datedelay + datedevice    
                     escribir_lista_horas.append(str(datedevice))
                 for device in devices:        
                     sid = device.getAttribute("deviceId")
                     porperty = device.getAttribute("property")
-                    value = device.getAttribute("value") 
+                    value = device.getAttribute("value")
+                    if value == "true":
+                        value = "on"
+                    elif value == "false":
+                        value = "off"
+                    else:
+                        value = value 
                     fileoutput.write(escribir_lista_horas[i] + ',' + sid + ',' + porperty + ',' + value + ',')
                     for zone in zones:
                         devicezone = zone.getAttribute("deviceId")
