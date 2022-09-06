@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Jul 29 13:30:35 2022
-
 @author: Irache Garamendi Bragado
 """
 import datetime
@@ -31,12 +30,10 @@ Función que crea la sesion de spark
     ----------
     sparkConf : SparkConf
         DESCRIPTION.
-
     Returns
     -------
     SparkSession
         DESCRIPTION.
-
     '''    
     if ('sparkSessionSingletonInstance' not in globals()):
         globals()['sparkSessionSingletonInstance'] = SparkSession\
@@ -53,7 +50,7 @@ if __name__ == "__main__":
     # -----------------------------------------------------------------------------
     logger = logging.getLogger(__name__)
     logger.setLevel(logging.DEBUG)
-    logFile = '%s/script/countActivityDevice.log' % (workPath)
+    logFile = '%s/script/countActivityDeviceSpark.log' % (workPath)
     # controlador para fichero
     logFormat = logging.Formatter('[%(asctime)s] %(levelname)-8s [%(name)s.%(funcName)-10s:%(lineno)d] %(message)s')
     fileHandler = logging.FileHandler(logFile, mode='a')
@@ -131,11 +128,24 @@ if __name__ == "__main__":
                 result_activity = df_final.count()
                 
                 # Guardar en fichero la información
-                f = open("%s/resultados/Count_Device_%s.txt" % (workPath, group), "a")
-                f.write('[%s] - Count status device on in area %s : %i \n' % (d, area, result_activity))
+                f = open("%s/resultados/Count_Device_%s_Spark.txt" % (workPath, group), "a")
+                f.write('[%s] - Count status device property: %s -on- in area %s : %i \n' % (d, propertyDevice, area, result_activity))
                 f.close()
             
                 print("Activity in %s: %s" % (area, result_activity))
+                
+            def count_device_value_on_for_area(df, propertyDevice, valueAlarm, area, group):
+                df_final = df.filter((df.propertiesMap.getItem("propertyDevice") == propertyDevice) \
+                                                              & (df["area"] == area) \
+                                                              & (int(df.propertiesMap.getItem("valuePropertyDevice")) > valueAlarm))
+
+                result_activity = df_final.count()   
+                print("Activity in %s: %s" % (area, result_activity))
+                    
+                # Guardar en fichero la información
+                f = open("%s/resultados/Count_Device_%s_Spark.txt" % (workPath, group), "a")
+                f.write('[%s] - Count value property: %s device on in area %s : %i \n' % (d, propertyDevice, area, result_activity))
+                f.close()
 
             logger.info("contador de dispositivo bedroom. count_device_status_on_for_area")
             # Activity in bedroom: sleep + dressing + other=================================
@@ -154,18 +164,27 @@ if __name__ == "__main__":
             count_device_status_on_for_area(DFDeviceMap, 'sensedPresence', 'bathroom', 'bathroom')
             count_device_status_on_for_area(DFDeviceMap, 'sensedPresence', 'toilet', 'bathroom')
             count_device_status_on_for_area(DFDeviceMap, 'sensedPresence', 'washbasin', 'bathroom')            
-            
-            #Activity in kitchen===============================
-            logger.info("contador de dispositivo kitchen. count_device_status_on_for_area")
-            count_device_status_on_for_area(DFDeviceMap, 'powerStatus', 'kitchen', 'kitchen')
-            count_device_status_on_for_area(DFDeviceMap, 'sensedPresence', 'kitchen', 'kitchen')
-            count_device_status_on_for_area(DFDeviceMap, 'sensedPresence', 'chair_kitchen', 'kitchen')
-            
+                       
             #Activity in livingroom===============================
             logger.info("contador de dispositivo livingroom. count_device_status_on_for_area")
             count_device_status_on_for_area(DFDeviceMap, 'powerStatus', 'livingroom', 'livingroom')
-            count_device_status_on_for_area(DFDeviceMap, 'sensedPresence', 'livingroom', 'livingoom')
+            count_device_status_on_for_area(DFDeviceMap, 'sensedPresence', 'livingroom', 'livingroom')
             count_device_status_on_for_area(DFDeviceMap, 'sensedPresence', 'armchair', 'livingroom')
+            
+            #Activity in hallway===============================
+            logger.info("contador de dispositivo hallway. count_device_status_on_for_area")
+            count_device_status_on_for_area(DFDeviceMap, 'sensedPresence', 'hallway', 'hallway')
+            count_device_status_on_for_area(DFDeviceMap, 'powerStatus', 'hallway', 'hallway') 
+            count_device_status_on_for_area(DFDeviceMap, 'flood.alarm', 'hallway', 'hallway')
+
+            #Activity in kitchen===============================
+            logger.info("contador de dispositivo kitchen. count_device_status_on_for_area")
+            count_device_value_on_for_area(DFDeviceMap, 'thermometer.currentTemperature','200' , 'kitchen', 'kitchen')
+            count_device_value_on_for_area(DFDeviceMap, 'carbonDioxydeSensor.currentConcentration','0' , 'kitchen', 'kitchen')
+            count_device_value_on_for_area(DFDeviceMap, 'carbonMonoxydeSensor.currentConcentration','0' , 'kitchen', 'kitchen')
+            count_device_status_on_for_area(DFDeviceMap, 'powerStatus', 'kitchen', 'kitchen')
+            count_device_status_on_for_area(DFDeviceMap, 'sensedPresence', 'kitchen', 'kitchen')
+            count_device_status_on_for_area(DFDeviceMap, 'sensedPresence', 'chair_kitchen', 'kitchen')
 
 
 
@@ -177,4 +196,3 @@ if __name__ == "__main__":
     ssc.start()
     time.sleep(6)
     ssc.stop(stopSparkContext=True, stopGraceFully=True)
-    
