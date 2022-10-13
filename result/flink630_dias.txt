@@ -1,0 +1,60 @@
+he@sobremesa:/mnt/c/flink-1.15.2/bin$ flink run --python /mnt/c/flink-1.15.2/bin/countActivityDeviceFlink.py
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.flink.api.java.ClosureCleaner (file:/mnt/c/flink-1.15.2/lib/flink-dist-1.15.2.jar) to field java.lang.String.value
+WARNING: Please consider reporting this to the maintainers of org.apache.flink.api.java.ClosureCleaner
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+Job has been submitted with JobID 58e03c7f57abfef757e28301a7f9d1de
+Program execution finished
+Job with JobID 58e03c7f57abfef757e28301a7f9d1de has finished.
+Job Runtime: 20361 ms
+
+Job has been submitted with JobID b5c73ea1b644f7caa090bcdbb77b3948
+Program execution finished
+Job with JobID b5c73ea1b644f7caa090bcdbb77b3948 has finished.
+Job Runtime: 20527 ms
+
+Job has been submitted with JobID 787be5dffcf02db6ee608a7830779c4e
+Program execution finished
+Job with JobID 787be5dffcf02db6ee608a7830779c4e has finished.
+Job Runtime: 22437 ms
+
+Job has been submitted with JobID 3ae0c6ebeabc9a9458a8760d7cc47931
+Program execution finished
+Job with JobID 3ae0c6ebeabc9a9458a8760d7cc47931 has finished.
+Job Runtime: 22628 ms
+
+Job has been submitted with JobID 593e900f23584ddd8437522217076503
+Program execution finished
+Job with JobID 593e900f23584ddd8437522217076503 has finished.
+Job Runtime: 22721 ms
+
+Job has been submitted with JobID 609f48f1df4bde87d3bf5c38880a56e3
+Program execution finished
+Job with JobID 609f48f1df4bde87d3bf5c38880a56e3 has finished.
+Job Runtime: 22300 ms
+
+Job has been submitted with JobID e6bb48aafbfdf61dee239fb6f61ece78
+Program execution finished
+Job with JobID e6bb48aafbfdf61dee239fb6f61ece78 has finished.
+Job Runtime: 21696 ms
+
+Job has been submitted with JobID d8de0e067b87b11d9747a516b17cf1af
+Program execution finished
+Job with JobID d8de0e067b87b11d9747a516b17cf1af has finished.
+Job Runtime: 22128 ms
+
+Job has been submitted with JobID 76116614bec5d097dfc3b94ffbc0fdb9
+Program execution finished
+Job with JobID 76116614bec5d097dfc3b94ffbc0fdb9 has finished.
+Job Runtime: 23059 ms
+
+Job has been submitted with JobID 4f518cfa9511f903000e5983f9daa73f
+Program execution finished
+Job with JobID 4f518cfa9511f903000e5983f9daa73f has finished.
+Job Runtime: 22884 ms
+
+Job has been submitted with JobID 78cd34f4a1ea7a6320858eeaae2f45e8
+Program execution finished
+Job with JobID 78cd34f4a1ea7a6320858eeaae2f45e8 has finished.
+Job Runtime: 22146 ms
